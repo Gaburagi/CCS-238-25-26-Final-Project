@@ -1,2 +1,13 @@
 # CCS-238-25-26-Final-Project
 This repository is used for submitting the final project of students taking the course CCS 248
+
+For the submission of your source codes, please follow the following steps:
+(Note: only one member will do the steps below)
+
+1. Fork this repository
+2. Clone the repository in your local device
+3. Once cloned, navigate to your respective section and create a folder with the following naming convention:
+    "lastname1-lastname2_final-project"
+4. Copy and paste the source codes and model (if the model is too large, put it in a Google Drive, and make sure I can access it)
+5. Once done, add-commit-push your changes to your GitHub repository
+6. Create a Pull Request for merging your forked repo to this repository.
